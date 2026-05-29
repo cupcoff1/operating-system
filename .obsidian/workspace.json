@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "c137bbc4cc42f31c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2fa2f8f602aba35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "041a37ecb27cf18f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第4章 进程同步与死锁/银行家算法.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "银行家算法"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "683563700e1831a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd11dd058a1bdd7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c79a7314efe5a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e226504c577e557d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8b79477aa0e3ae33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "109b0432222c7e16",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fc1542b2a879a59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f997f8c99841bfde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第7章 输入输出系统/磁盘调度算法.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "磁盘调度算法 的反向链接列表"
+            }
+          },
+          {
+            "id": "ee9e60f39b182254",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第7章 输入输出系统/磁盘调度算法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "磁盘调度算法 的出链列表"
+            }
+          },
+          {
+            "id": "cd65749f0c05db78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5fdac4c3e63bf111",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d52a21b8f2e67bf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第4章 进程同步与死锁/银行家算法.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "银行家算法 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "041a37ecb27cf18f",
+  "lastOpenFiles": [
+    "操作系统全景图.md",
+    "第4章 进程同步与死锁/信号量与管程.md",
+    "第4章 进程同步与死锁/银行家算法.md",
+    "第6章 虚拟存储器/页面置换算法.md",
+    "第3章 处理机调度/经典调度算法.md",
+    "第3章 处理机调度/实时调度.md",
+    "第1章 操作系统引论/操作系统内核架构.md",
+    "第1章 操作系统引论/操作系统概述.md",
+    "第10章 多处理机操作系统/多处理机操作系统.md",
+    "第12章 保护和安全/操作系统安全.md",
+    "第7章 输入输出系统/IO控制方式.md",
+    "第5章 存储器管理/分页与页表.md.tmp.26812.2de8fbd37020",
+    "第3章 处理机调度/经典调度算法.md.tmp.26812.a380c58d82be",
+    "第2章 进程的描述与控制/进程概念与状态.md.tmp.26812.dfad1cb775ae",
+    "第7章 输入输出系统/磁盘调度算法.md",
+    "第7章 输入输出系统/缓冲与SPOOLing.md",
+    "第9章 磁盘存储器管理/磁盘存储器管理.md",
+    "第8章 文件管理/目录与空闲管理.md",
+    "第8章 文件管理/文件结构.md",
+    "计算机操作系统 MOC.md",
+    "进程三大调度算法 知识点思维导图.png",
+    "Untitled 1.md",
+    "Untitled.md",
+    "第4章 进程同步与死锁/经典同步问题.md",
+    "第4章 进程同步与死锁/临界区与锁机制.md",
+    "第1章 操作系统引论/系统调用与中断.md",
+    "fork函数/fork5第二行fork逻辑链.png",
+    "操作系统调度 + 死锁 + 同步 高频考点思维导图.png",
+    "第2章 进程的描述与控制/进程概念与状态.md",
+    "第2章 进程的描述与控制/线程模型.md",
+    "第2章 进程的描述与控制/进程间通信 IPC.md",
+    "附录/考点优先级速查.md",
+    "附录",
+    "第12章 保护和安全",
+    "第11章 虚拟化和云计算",
+    "第10章 多处理机操作系统",
+    "第9章 磁盘存储器管理",
+    "第8章 文件管理",
+    "第7章 输入输出系统"
+  ]
+}
